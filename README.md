@@ -2,7 +2,7 @@
 
 Una página web interactiva estilo Apple que muestra productos MacBook con modelos 3D animados, efectos de scroll avanzados y animaciones fluidas.
 
-🌐 **Demo en vivo**: [https://facu-apple-macbook-page.vercel.app/](https://facu-apple-macbook-page.vercel.app/)
+🌐 **Demo en vivo**: [https://facu-apple-macbook-page.vercel.app/](https://facu-apple-macbook-page.vercel.app/) 
 
 ## 📖 Descripción del Proyecto
 
